@@ -1,0 +1,2 @@
+# Reversi
+AI reversi game 
